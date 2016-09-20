@@ -1,0 +1,6 @@
+name: HTTP Response Header
+version: 1.0
+description: 'Allows for setting HTTP Response Headers without enabling php mode in Statamic 2'
+url: https://github.com/ljcl/statamic-http-response-header
+developer: luke
+developer_url: https://lukeclark.com.au/
